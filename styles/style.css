@@ -196,7 +196,7 @@
   grid-template-columns: 334px auto;
 }
 
-.about__logo {    
+.about__logo {
   display: flex;
   justify-content: center;
   align-items: center;
