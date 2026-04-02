@@ -197,11 +197,11 @@
 }
 
 .about__logo {
+  width: 240px;
+  height: 240px;    
   display: flex;
   justify-content: center; 
   align-items: center;
-  width: 240px;
-  height: 240px;    
   margin: 0px 47px;
   border-radius: 50%;
   background-color: #000;
